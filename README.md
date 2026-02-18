@@ -1,0 +1,1 @@
+A functional Python-based Music Player developed as part of my Artificial Intelligence and Machine Learning studies at Adhichunchanagiri Institute of Technology. This project demonstrates the integration of a Graphical User Interface (GUI) with backend audio processing.
